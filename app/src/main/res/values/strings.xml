@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tensorflow Lite</string>
+    <string name="title">تشخیص اعداد</string>
+    <string name="title_desc">لطفا عدد مورد نظر را در کادر زیر بنویسید </string>
+    <string name="prediction">عدد تشخیص داده شده </string>
+    <string name="probability">احتمال</string>
+    <string name="timecost">زمان</string>
+    <string name="timecost_value">%1$d ms</string>
+    <string name="empty">--</string>
+    <string name="detect">تشخیص</string>
+    <string name="clear">پاک کردن</string>
+    <string name="please_write_a_digit">لطفا یک عدد را در کادر بالا بنویسید.</string>
+    <string name="failed_to_create_classifier">ساخت Classifier با مشکل مواجه شد.</string>
+    <string name="Tensorflow">Powered by Tensorflow  <font color='#f16529'>Lite</font></string>
+</resources>
